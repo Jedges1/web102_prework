@@ -21,12 +21,16 @@ body {
 
 .stats-container {
     display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    /* box-shadow: 0 0 30px; */
 }
 
 .stats-card {
     background-color: #a8b0bc;
     border-radius: 7px;
-    padding: 1%;
+    padding: 2%;
     margin: 1%;
     width: 100%;
     text-align: center;
