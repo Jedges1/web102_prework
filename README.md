@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 
 
-    https://imgur.com/gallery/something-something-may-fourth-E6bolpS 
+   https://i.imgur.com/BMsImlO.mp4
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
